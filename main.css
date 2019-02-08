@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(71, 71, 71);
+}
+footer
+{
+    color: rgb(216, 212, 212);
+}
+a
+{
+    color:rgb(216, 212, 212);
+    text-decoration-line: none;
+
+}
+ul
+{
+    color: rgb(216, 212, 212);
+    list-style-type: none;
+    background-color: black;
+    
+
+
+}
+li
+{
+    display: inline;
+}
+p
+{
+    display: inline;
+    float: right;
+
+}
