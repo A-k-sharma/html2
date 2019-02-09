@@ -30,6 +30,22 @@
   margin-left: 55px;
   margin-right: 55px;
 }
+#five{
+
+    font-size: 15px;
+    margin-top: -1px; 
+    color:  white;
+}
+#six{
+
+  margin-left: 50px;
+  font-size: 15px;
+}
+#seven{
+margin-top:-32px;
+font-size: 15px;
+
+}
 h2{
   margin-left: -600px;
 	color: #807f7b
@@ -48,13 +64,21 @@ hr{
 .box-model1
 {
 
-	  background-color: rgb(71,71,71);;
+	  background-color: rgb(71,71,71);
       height: 315px;
       width: 215px;
       box-sizing: border-box;
       float: left;
-      margin-left:30px;
+      margin-left:45px;
     
+}
+.box-model2{
+
+  background-color: #c9c7c0;
+  height: 20px;
+  width: 215px;
+  float: left;
+  margin-left: 45px; 
 }
 .middle2{
   background-color: white;
@@ -99,6 +123,6 @@ body{
 }
 .foot
 {
-
-  display:block;
+  margin-top: 375px;
+  background-color: rgb(71,71,71);
 }
